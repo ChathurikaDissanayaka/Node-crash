@@ -53,5 +53,5 @@ const appendFile = async () => {
   }
 };
 
-appendFile()
-readFile('./test3.txt')
+appendFile();
+readFile("./test3.txt");
