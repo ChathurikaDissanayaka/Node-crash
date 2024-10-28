@@ -1,13 +1,13 @@
-import os from 'os'
+import os from "os";
 
 // userInfo()
-console.log(os.userInfo())
+console.log(os.userInfo());
 
 // totalmem()
-console.log(os.totalmem())
+console.log(os.totalmem());
 
 // freemem
-console.log(os.freemem())
+console.log(os.freemem());
 
 // cpus()
-console.log(os.cpus())
+console.log(os.cpus());
